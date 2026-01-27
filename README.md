@@ -6,3 +6,8 @@ This repository is a collection of  Python projects I’ve built to improve my s
 
 created this repository to practice Python, experiment with different libraries, and build small, meaningful projects. Each project here represents a step in my learning journey. Focus on GUI applications or automation, and some are just fun experiments to explore Python’s capabilities. These project is designed to help me strengthen my programming skills, understand Python libraries, and explore problem-solving in practical scenarios.
 
+## Technologies used
+
+- Python
+- vscode
+- jupyter notebook
