@@ -1,13 +1,48 @@
-# Python Projects
+# 🐍 Python Projects Portfolio
 
-This repository is a collection of  Python projects I’ve built to improve my skills and explore different aspects of Python. Each project is designed to be small, focused, and hands-on, allowing me to experiment with different libraries and programming concepts. By building these projects, I’ve strengthened my problem-solving, coding, and project-structuring skills, and created a portfolio that reflects my learning journey and passion for Python.
+This repository is a curated collection of Python projects built to strengthen my programming fundamentals, explore real-world problem-solving, and experiment with different Python libraries and tools.
 
-## About
+Each project is hands-on and purpose-driven — focused on improving code structure, readability, and practical implementation skills. These projects reflect my growth as a developer and my commitment to continuous learning.
 
-created this repository to practice Python, experiment with different libraries, and build small, meaningful projects. Each project here represents a step in my learning journey. Focus on GUI applications or automation, and some are just fun experiments to explore Python’s capabilities. These project is designed to help me strengthen my programming skills, understand Python libraries, and explore problem-solving in practical scenarios.
+## 📌 About This Repository
 
-## Technologies used
+I created this repository to:
 
-- Python
-- vscode
-- jupyter notebook
+- Practice and solidify core Python concepts  
+- Experiment with different libraries and frameworks  
+- Build small but meaningful real-world projects  
+- Improve project structuring and clean code practices  
+- Strengthen logical thinking and problem-solving skills  
+
+### Project Focus Areas
+
+- GUI Applications  
+- Automation Tools  
+- Data Processing & Analysis  
+- Utility-Based Mini Tools  
+- Experimental Python Projects  
+
+Each project represents a step forward in my Python journey.
+
+## 🛠️ Technologies & Tools
+
+- **Python** – Core programming language  
+- **Jupyter Notebook** – Data exploration and analysis  
+- **VS Code** – Development environment  
+
+## 📂 Repository Structure
+
+Each project is organized in its own folder and typically includes:
+
+- Source code  
+- Supporting files (if required)  
+- Clean and readable file structure  
+- Meaningful naming conventions
+
+## 👤 Connect With Me
+
+- 🔗 GitHub: https://github.com/akisavujel  
+- 💼 LinkedIn: https://www.linkedin.com/in/akishabhujel/  
+- 📊 Kaggle: https://www.kaggle.com/akisavujel  
+
+⭐ If you find this repository interesting, feel free to explore the projects and share feedback!
